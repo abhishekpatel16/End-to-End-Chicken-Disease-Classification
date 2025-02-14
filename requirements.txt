@@ -1,0 +1,14 @@
+tensorflow==2.17.0
+pandas 
+numpy
+matplotlib
+seaborn
+python-box==7.3.0
+pyYAML
+tqdm
+ensure==1.0.3
+joblib
+scipy
+Flask
+Flask-Cors
+-e .
